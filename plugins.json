@@ -1,0 +1,63 @@
+[
+    {
+        "url": "https://raw.githubusercontent.com/drumils/module-index/builds/ApneTVProvider.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "ApneTVProvider",
+        "internalName": "ApneTVProvider",
+        "authors": [
+            "cstream"
+        ],
+        "description": "ApneTV - Hindi Serials, Bollywood Movies, TV Shows (Star Plus, Colors, Sony, Zee TV)",
+        "fileSize": 24764,
+        "repositoryUrl": "https://github.com/drumils/module-index",
+        "language": "hi",
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "iconUrl": "https://apne.co/pub/images/favicon-new3.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-dd307bae4e8eae0de9f423a8e04b6cc098d52ad670652c4f8fa2568b6d255881"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/drumils/module-index/builds/HuraMoviesProvider.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "HuraMoviesProvider",
+        "internalName": "HuraMoviesProvider",
+        "authors": [
+            "cstream"
+        ],
+        "description": "HuraMovies - Watch movies and TV shows for free",
+        "fileSize": 40961,
+        "repositoryUrl": "https://github.com/drumils/module-index",
+        "language": "en",
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://huramovies.lol/wp-content/uploads/2023/06/cropped-favicon-32x32.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-b329d547d3c73ba0c606007875f84d4bdc47b0273356c49d3bc73deb9401d3e3"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/drumils/module-index/builds/PlayDesiProvider.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "PlayDesiProvider",
+        "internalName": "PlayDesiProvider",
+        "authors": [
+            "cstream"
+        ],
+        "description": "PlayDesi - Indian Web Series (Netflix, Amazon Prime, Hotstar, Sony Liv, Zee5)",
+        "fileSize": 24992,
+        "repositoryUrl": "https://github.com/drumils/module-index",
+        "language": "hi",
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "iconUrl": "https://playdesi.tv/wp-content/uploads/2020/04/playdesi-sd.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-5bf87cf80ead4ce733adb07e8b11caa5eee825c5aaf9183e8ab7dc89203df183"
+    }
+]
