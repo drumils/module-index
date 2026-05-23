@@ -1,6 +1,6 @@
 [
     {
-        "url": "https://raw.githubusercontent.com/drumils/module-index/builds/ApneTVProvider.cs3",
+        "url": "https://raw.githubusercontent.com/drumils/module-index/refs/heads/builds/ApneTVProvider.cs3",
         "status": 1,
         "version": 2,
         "name": "ApneTVProvider",
@@ -20,7 +20,7 @@
         "fileHash": "sha256-4e39f5b188512499cac3f712fa4a42adb3dffa3bed8286a6db35bf4c792423d2"
     },
     {
-        "url": "https://raw.githubusercontent.com/drumils/module-index/builds/HuraMoviesProvider.cs3",
+        "url": "https://raw.githubusercontent.com/drumils/module-index/refs/heads/builds/HuraMoviesProvider.cs3",
         "status": 1,
         "version": 2,
         "name": "HuraMoviesProvider",
@@ -41,7 +41,7 @@
         "fileHash": "sha256-0a7b89e49d7e7bd4f646fb453707449be70f342c87118219ee8d5a34bcf0dc80"
     },
     {
-        "url": "https://raw.githubusercontent.com/drumils/module-index/builds/PlayDesiProvider.cs3",
+        "url": "https://raw.githubusercontent.com/drumils/module-index/refs/heads/builds/PlayDesiProvider.cs3",
         "status": 1,
         "version": 2,
         "name": "PlayDesiProvider",
