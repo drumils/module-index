@@ -8,8 +8,8 @@
         "authors": [
             "cstream"
         ],
-        "description": "ApneTV",
-        "fileSize": 19068,
+        "description": "ApneTV - Hindi Serials, Bollywood Movies, TV Shows (Star Plus, Colors, Sony, Zee TV)",
+        "fileSize": 22345,
         "repositoryUrl": "https://github.com/drumils/module-index",
         "language": "hi",
         "tvTypes": [
@@ -17,7 +17,7 @@
         ],
         "iconUrl": "https://apne.co/pub/images/favicon-new3.png",
         "apiVersion": 1,
-        "fileHash": "sha256-06b6a8ca395011ec3834856323090181a154e32c44de2ef6e50e24f1ca625a28"
+        "fileHash": "sha256-9832c919e3e64cdfad1b083fdc28266f6916f5d262c8950da21b9186ff32187a"
     },
     {
         "url": "https://raw.githubusercontent.com/drumils/module-index/builds/HuraMoviesProvider.cs3",
@@ -28,8 +28,8 @@
         "authors": [
             "cstream"
         ],
-        "description": "HuraMovies - Watch movies and TV shows",
-        "fileSize": 27698,
+        "description": "HuraMovies - Watch movies and TV shows for free",
+        "fileSize": 40961,
         "repositoryUrl": "https://github.com/drumils/module-index",
         "language": "en",
         "tvTypes": [
@@ -38,7 +38,7 @@
         ],
         "iconUrl": "https://huramovies.lol/wp-content/uploads/2023/06/cropped-favicon-32x32.png",
         "apiVersion": 1,
-        "fileHash": "sha256-05e72d53b3cbfa0aa90bd254a379a141a3d521c831b378faaa4203c08912b621"
+        "fileHash": "sha256-b329d547d3c73ba0c606007875f84d4bdc47b0273356c49d3bc73deb9401d3e3"
     },
     {
         "url": "https://raw.githubusercontent.com/drumils/module-index/builds/PlayDesiProvider.cs3",
@@ -49,8 +49,8 @@
         "authors": [
             "cstream"
         ],
-        "description": "PlayDesi - Indian Web Series",
-        "fileSize": 18037,
+        "description": "PlayDesi - Indian Web Series (Netflix, Amazon Prime, Hotstar, Sony Liv, Zee5)",
+        "fileSize": 24992,
         "repositoryUrl": "https://github.com/drumils/module-index",
         "language": "hi",
         "tvTypes": [
@@ -58,6 +58,6 @@
         ],
         "iconUrl": "https://playdesi.tv/wp-content/uploads/2020/04/playdesi-sd.png",
         "apiVersion": 1,
-        "fileHash": "sha256-0c82d9220818b9e2c93ea7561cc353e7a03124b8eecd146ff618de525f07d7f2"
+        "fileHash": "sha256-5bf87cf80ead4ce733adb07e8b11caa5eee825c5aaf9183e8ab7dc89203df183"
     }
 ]
