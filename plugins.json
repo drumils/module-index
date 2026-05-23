@@ -1,6 +1,6 @@
 [
     {
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/ApneTVProvider.cs3",
+        "url": "https://raw.githubusercontent.com/drumils/module-index/builds/ApneTVProvider.cs3",
         "status": 1,
         "version": 1,
         "name": "ApneTVProvider",
@@ -10,7 +10,7 @@
         ],
         "description": "ApneTV - Hindi Serials, Bollywood Movies, TV Shows (Star Plus, Colors, Sony, Zee TV)",
         "fileSize": 19068,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "repositoryUrl": "https://github.com/drumils/module-index",
         "language": "hi",
         "tvTypes": [
             "TvSeries"
@@ -20,7 +20,7 @@
         "fileHash": "sha256-06b6a8ca395011ec3834856323090181a154e32c44de2ef6e50e24f1ca625a28"
     },
     {
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/HuraMoviesProvider.cs3",
+        "url": "https://raw.githubusercontent.com/drumils/module-index/builds/HuraMoviesProvider.cs3",
         "status": 1,
         "version": 1,
         "name": "HuraMoviesProvider",
@@ -30,7 +30,7 @@
         ],
         "description": "HuraMovies - Watch movies and TV shows for free",
         "fileSize": 27698,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "repositoryUrl": "https://github.com/drumils/module-index",
         "language": "en",
         "tvTypes": [
             "TvSeries",
@@ -41,7 +41,7 @@
         "fileHash": "sha256-05e72d53b3cbfa0aa90bd254a379a141a3d521c831b378faaa4203c08912b621"
     },
     {
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/PlayDesiProvider.cs3",
+        "url": "https://raw.githubusercontent.com/drumils/module-index/builds/PlayDesiProvider.cs3",
         "status": 1,
         "version": 1,
         "name": "PlayDesiProvider",
@@ -51,7 +51,7 @@
         ],
         "description": "PlayDesi - Indian Web Series (Netflix, Amazon Prime, Hotstar, Sony Liv, Zee5)",
         "fileSize": 18037,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "repositoryUrl": "https://github.com/drumils/module-index",
         "language": "hi",
         "tvTypes": [
             "TvSeries"
