@@ -1,0 +1,63 @@
+[
+    {
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/ApneTVProvider.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "ApneTVProvider",
+        "internalName": "ApneTVProvider",
+        "authors": [
+            "cstream"
+        ],
+        "description": "ApneTV - Hindi Serials, Bollywood Movies, TV Shows (Star Plus, Colors, Sony, Zee TV)",
+        "fileSize": 19068,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "language": "hi",
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "iconUrl": "https://apne.co/pub/images/favicon-new3.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-06b6a8ca395011ec3834856323090181a154e32c44de2ef6e50e24f1ca625a28"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/HuraMoviesProvider.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "HuraMoviesProvider",
+        "internalName": "HuraMoviesProvider",
+        "authors": [
+            "cstream"
+        ],
+        "description": "HuraMovies - Watch movies and TV shows for free",
+        "fileSize": 27698,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "language": "en",
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://huramovies.lol/wp-content/uploads/2023/06/cropped-favicon-32x32.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-05e72d53b3cbfa0aa90bd254a379a141a3d521c831b378faaa4203c08912b621"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/PlayDesiProvider.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "PlayDesiProvider",
+        "internalName": "PlayDesiProvider",
+        "authors": [
+            "cstream"
+        ],
+        "description": "PlayDesi - Indian Web Series (Netflix, Amazon Prime, Hotstar, Sony Liv, Zee5)",
+        "fileSize": 18037,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "language": "hi",
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "iconUrl": "https://playdesi.tv/wp-content/uploads/2020/04/playdesi-sd.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-0c82d9220818b9e2c93ea7561cc353e7a03124b8eecd146ff618de525f07d7f2"
+    }
+]
