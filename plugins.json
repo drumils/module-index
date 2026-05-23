@@ -2,14 +2,14 @@
     {
         "url": "https://raw.githubusercontent.com/drumils/module-index/builds/ApneTVProvider.cs3",
         "status": 1,
-        "version": 1,
+        "version": 2,
         "name": "ApneTVProvider",
         "internalName": "ApneTVProvider",
         "authors": [
             "cstream"
         ],
         "description": "ApneTV - Hindi Serials, Bollywood Movies, TV Shows (Star Plus, Colors, Sony, Zee TV)",
-        "fileSize": 22345,
+        "fileSize": 24764,
         "repositoryUrl": "https://github.com/drumils/module-index",
         "language": "hi",
         "tvTypes": [
@@ -17,12 +17,12 @@
         ],
         "iconUrl": "https://apne.co/pub/images/favicon-new3.png",
         "apiVersion": 1,
-        "fileHash": "sha256-9832c919e3e64cdfad1b083fdc28266f6916f5d262c8950da21b9186ff32187a"
+        "fileHash": "sha256-4e39f5b188512499cac3f712fa4a42adb3dffa3bed8286a6db35bf4c792423d2"
     },
     {
         "url": "https://raw.githubusercontent.com/drumils/module-index/builds/HuraMoviesProvider.cs3",
         "status": 1,
-        "version": 1,
+        "version": 2,
         "name": "HuraMoviesProvider",
         "internalName": "HuraMoviesProvider",
         "authors": [
@@ -38,19 +38,19 @@
         ],
         "iconUrl": "https://huramovies.lol/wp-content/uploads/2023/06/cropped-favicon-32x32.png",
         "apiVersion": 1,
-        "fileHash": "sha256-b329d547d3c73ba0c606007875f84d4bdc47b0273356c49d3bc73deb9401d3e3"
+        "fileHash": "sha256-0a7b89e49d7e7bd4f646fb453707449be70f342c87118219ee8d5a34bcf0dc80"
     },
     {
         "url": "https://raw.githubusercontent.com/drumils/module-index/builds/PlayDesiProvider.cs3",
         "status": 1,
-        "version": 1,
+        "version": 2,
         "name": "PlayDesiProvider",
         "internalName": "PlayDesiProvider",
         "authors": [
             "cstream"
         ],
         "description": "PlayDesi - Indian Web Series (Netflix, Amazon Prime, Hotstar, Sony Liv, Zee5)",
-        "fileSize": 24992,
+        "fileSize": 24993,
         "repositoryUrl": "https://github.com/drumils/module-index",
         "language": "hi",
         "tvTypes": [
@@ -58,6 +58,6 @@
         ],
         "iconUrl": "https://playdesi.tv/wp-content/uploads/2020/04/playdesi-sd.png",
         "apiVersion": 1,
-        "fileHash": "sha256-5bf87cf80ead4ce733adb07e8b11caa5eee825c5aaf9183e8ab7dc89203df183"
+        "fileHash": "sha256-1939da3d6260185e9c6b3c06c87a73f53b6d9a78993c3a34d7b7a31b68ec79a2"
     }
 ]
