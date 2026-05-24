@@ -1,8 +1,8 @@
 {
-  "name": "Module Index",
-  "description": "Extensions",
-  "manifestVersion": 1,
-  "pluginLists": [
-    "https://raw.githubusercontent.com/drumils/module-index/refs/heads/builds/plugins.json"
-  ]
+    "name": "Module Index",
+    "description": "Extensions",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://raw.githubusercontent.com/drumils/module-index/refs/heads/builds/plugins-v7.json"
+    ]
 }

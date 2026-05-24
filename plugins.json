@@ -20,16 +20,16 @@
         "fileHash": "sha256-ce375c7712b4e257364d7123799d00445c038b8ea4378d5c661a51e63aa9aca4"
     },
     {
-        "url": "https://raw.githubusercontent.com/drumils/module-index/refs/heads/builds/HuraMoviesProvider-v4.cs3",
+        "url": "https://raw.githubusercontent.com/drumils/module-index/refs/heads/builds/HuraMoviesProvider-v5.cs3",
         "status": 1,
-        "version": 4,
+        "version": 5,
         "name": "HuraMoviesProvider",
         "internalName": "HuraMoviesProvider",
         "authors": [
             "cstream"
         ],
         "description": "HuraMovies - Watch movies and TV shows for free",
-        "fileSize": 53848,
+        "fileSize": 53528,
         "repositoryUrl": "https://github.com/drumils/module-index",
         "language": "en",
         "tvTypes": [
@@ -38,19 +38,19 @@
         ],
         "iconUrl": "https://huramovies.lol/wp-content/uploads/2023/06/cropped-favicon-32x32.png",
         "apiVersion": 1,
-        "fileHash": "sha256-07b20f2151bc2ab5a18258b886a82cf1bae6184c8f5e0e3e9e5dce9b8df1fc88"
+        "fileHash": "sha256-6f7f2312108f017f53cc50a9e7cbb50f817d374b01cd0419ebbc48c54b7a1e61"
     },
     {
-        "url": "https://raw.githubusercontent.com/drumils/module-index/refs/heads/builds/PlayDesiProvider-v4.cs3",
+        "url": "https://raw.githubusercontent.com/drumils/module-index/refs/heads/builds/PlayDesiProvider-v5.cs3",
         "status": 1,
-        "version": 4,
+        "version": 5,
         "name": "PlayDesiProvider",
         "internalName": "PlayDesiProvider",
         "authors": [
             "cstream"
         ],
         "description": "PlayDesi - Indian Web Series (Netflix, Amazon Prime, Hotstar, Sony Liv, Zee5)",
-        "fileSize": 30697,
+        "fileSize": 36091,
         "repositoryUrl": "https://github.com/drumils/module-index",
         "language": "hi",
         "tvTypes": [
@@ -58,6 +58,6 @@
         ],
         "iconUrl": "https://playdesi.tv/wp-content/uploads/2020/04/playdesi-sd.png",
         "apiVersion": 1,
-        "fileHash": "sha256-25d4b7ddfa4491acac763c505e3e3a6b9fe7ea1466d5bc1d6ff327bc41ddc16f"
+        "fileHash": "sha256-05d7702a41b6ab6eec97f06bc8bfc04ea4234d981661da3a820a2ee71da7e920"
     }
 ]
