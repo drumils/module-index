@@ -81,16 +81,16 @@
         "fileHash": "sha256-2fdae48bc1dcbf18de935650abd9ff40b26236c24a7f705f761fa17734c1284a"
     },
     {
-        "url": "https://raw.githubusercontent.com/drumils/module-index/108bae850cfb8b65448494d0ae335da1f0382c1d/GilliTVProvider-v7.cs3",
+        "url": "https://raw.githubusercontent.com/drumils/module-index/builds/GilliTVProvider-v8.cs3",
         "status": 1,
-        "version": 7,
+        "version": 8,
         "name": "GilliTVProvider",
         "internalName": "GilliTVProvider",
         "authors": [
             "cstream"
         ],
-        "description": "GilliTV - Indian TV serials and shows with filtered listings and high-quality artwork",
-        "fileSize": 49319,
+        "description": "GilliTV - Indian TV serials and shows with sharper artwork and filtered listings",
+        "fileSize": 49522,
         "repositoryUrl": "https://github.com/drumils/module-index",
         "language": "hi",
         "tvTypes": [
@@ -99,7 +99,7 @@
         ],
         "iconUrl": "https://www.gillitv.xyz/wp-content/uploads/2019/04/gillitv-amp-logo.png",
         "apiVersion": 1,
-        "fileHash": "sha256-6c10cc97c58df3087a867ef71489fae250ad64fbd71820c4f7f46e7f8ec74c8e"
+        "fileHash": "sha256-3f8302918d25f6841b17f7d871fd72234021262384e0903a250869a37c0743c0"
     },
     {
         "url": "https://raw.githubusercontent.com/drumils/module-index/85bcefbbb83adf7e7ac34f8130bf2ac0fd0d7250/DesiRulezTVProvider-v6.cs3",
@@ -122,16 +122,16 @@
         "fileHash": "sha256-4d4da61356c283201233ddc218ce164f43e67d130ca3cc1fa30c07cc44d2d91f"
     },
     {
-        "url": "https://raw.githubusercontent.com/drumils/module-index/85bcefbbb83adf7e7ac34f8130bf2ac0fd0d7250/DesiTVBoxProvider-v5.cs3",
+        "url": "https://raw.githubusercontent.com/drumils/module-index/builds/DesiTVBoxProvider-v6.cs3",
         "status": 1,
-        "version": 5,
+        "version": 6,
         "name": "DesiTVBoxProvider",
         "internalName": "DesiTVBoxProvider",
         "authors": [
             "cstream"
         ],
-        "description": "DesiTVBox - Desi TV serials grouped by show and year",
-        "fileSize": 51776,
+        "description": "DesiTVBox - Desi TV serials grouped by show/year with Yandex stream resolving",
+        "fileSize": 54706,
         "repositoryUrl": "https://github.com/drumils/module-index",
         "language": "hi",
         "tvTypes": [
@@ -139,6 +139,6 @@
         ],
         "iconUrl": "https://www.desitvbox.ru/images/icon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-890f2366c72ffa2cd203593885adf5b9f3a38ea9ce21b7e2d824ab9569dbce06"
+        "fileHash": "sha256-2ba3ac473f2f14ff7fe4034e0f746a234202307543f55eeb97f08c865546deb8"
     }
 ]
