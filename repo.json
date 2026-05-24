@@ -3,6 +3,6 @@
     "description": "Extensions",
     "manifestVersion": 1,
     "pluginLists": [
-        "https://raw.githubusercontent.com/drumils/module-index/refs/heads/builds/plugins.json"
+        "https://raw.githubusercontent.com/drumils/module-index/1309adbcd540d5506f6615e16416ec3343fbf92c/plugins.json"
     ]
 }
