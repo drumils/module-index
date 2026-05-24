@@ -81,16 +81,16 @@
         "fileHash": "sha256-2fdae48bc1dcbf18de935650abd9ff40b26236c24a7f705f761fa17734c1284a"
     },
     {
-        "url": "https://raw.githubusercontent.com/drumils/module-index/builds/GilliTVProvider-v6.cs3",
+        "url": "https://raw.githubusercontent.com/drumils/module-index/builds/GilliTVProvider-v7.cs3",
         "status": 1,
-        "version": 6,
+        "version": 7,
         "name": "GilliTVProvider",
         "internalName": "GilliTVProvider",
         "authors": [
             "cstream"
         ],
-        "description": "GilliTV - Indian TV serials and shows, with slower-site timeout and mirror fallback",
-        "fileSize": 48688,
+        "description": "GilliTV - Indian TV serials and shows with filtered listings and high-quality artwork",
+        "fileSize": 49319,
         "repositoryUrl": "https://github.com/drumils/module-index",
         "language": "hi",
         "tvTypes": [
@@ -99,7 +99,7 @@
         ],
         "iconUrl": "https://www.gillitv.xyz/wp-content/uploads/2019/04/gillitv-amp-logo.png",
         "apiVersion": 1,
-        "fileHash": "sha256-a3873bcdcb7089956071fb2bb03d59eb35ec8c194fa1af4001ba253f4da499e0"
+        "fileHash": "sha256-6c10cc97c58df3087a867ef71489fae250ad64fbd71820c4f7f46e7f8ec74c8e"
     },
     {
         "url": "https://raw.githubusercontent.com/drumils/module-index/85bcefbbb83adf7e7ac34f8130bf2ac0fd0d7250/DesiRulezTVProvider-v6.cs3",
