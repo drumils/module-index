@@ -102,16 +102,16 @@
         "fileHash": "sha256-6c3191ce9d4e909a36c2765986dff2152b9d38e399540cee1a427e8d8c4414ca"
     },
     {
-        "url": "https://raw.githubusercontent.com/drumils/module-index/refs/heads/builds/DesiRulezTVProvider-v1.cs3",
+        "url": "https://raw.githubusercontent.com/drumils/module-index/refs/heads/builds/DesiRulezTVProvider-v2.cs3",
         "status": 1,
-        "version": 1,
+        "version": 2,
         "name": "DesiRulezTVProvider",
         "internalName": "DesiRulezTVProvider",
         "authors": [
             "cstream"
         ],
         "description": "DesiRulezTV - Indian TV serials and shows",
-        "fileSize": 43790,
+        "fileSize": 43732,
         "repositoryUrl": "https://github.com/drumils/module-index",
         "language": "hi",
         "tvTypes": [
@@ -119,7 +119,7 @@
         ],
         "iconUrl": "https://desiruleztv.se/wp-content/uploads/2025/11/favicon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-888c72990e45a85cc623cee6bc66bc39eca5beefba33debc2e493f87018e5b97"
+        "fileHash": "sha256-8301d19408db20d62f6e2a48358d62717a1f24876f93b9ca97f7386ed5927097"
     },
     {
         "url": "https://raw.githubusercontent.com/drumils/module-index/refs/heads/builds/DesiTVBoxProvider-v1.cs3",
