@@ -111,7 +111,7 @@
             "cstream"
         ],
         "description": "DesiRulezTV - Indian TV serials grouped by show and year",
-        "fileSize": 61891,
+        "fileSize": 62153,
         "repositoryUrl": "https://github.com/drumils/module-index",
         "language": "hi",
         "tvTypes": [
@@ -119,7 +119,7 @@
         ],
         "iconUrl": "https://desiruleztv.se/wp-content/uploads/2025/11/favicon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-64fa0273bb07656cdfe0bd817925ae73a9ae472202ea34103ce4a7f3f864afae"
+        "fileHash": "sha256-4d4da61356c283201233ddc218ce164f43e67d130ca3cc1fa30c07cc44d2d91f"
     },
     {
         "url": "https://raw.githubusercontent.com/drumils/module-index/builds/DesiTVBoxProvider-v5.cs3",
