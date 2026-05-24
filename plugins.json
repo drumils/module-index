@@ -29,7 +29,7 @@
             "cstream"
         ],
         "description": "HuraMovies - Watch movies and TV shows for free",
-        "fileSize": 53161,
+        "fileSize": 53848,
         "repositoryUrl": "https://github.com/drumils/module-index",
         "language": "en",
         "tvTypes": [
@@ -38,7 +38,7 @@
         ],
         "iconUrl": "https://huramovies.lol/wp-content/uploads/2023/06/cropped-favicon-32x32.png",
         "apiVersion": 1,
-        "fileHash": "sha256-8cf402af781f04ad3307f4ea720c9797d5aaad73bbcf224efa72bcdcbf937205"
+        "fileHash": "sha256-07b20f2151bc2ab5a18258b886a82cf1bae6184c8f5e0e3e9e5dce9b8df1fc88"
     },
     {
         "url": "https://raw.githubusercontent.com/drumils/module-index/refs/heads/builds/PlayDesiProvider.cs3",
