@@ -20,7 +20,7 @@
         "fileHash": "sha256-ce375c7712b4e257364d7123799d00445c038b8ea4378d5c661a51e63aa9aca4"
     },
     {
-        "url": "https://raw.githubusercontent.com/drumils/module-index/refs/heads/builds/HuraMoviesProvider.cs3",
+        "url": "https://raw.githubusercontent.com/drumils/module-index/refs/heads/builds/HuraMoviesProvider-v4.cs3",
         "status": 1,
         "version": 4,
         "name": "HuraMoviesProvider",
@@ -41,7 +41,7 @@
         "fileHash": "sha256-07b20f2151bc2ab5a18258b886a82cf1bae6184c8f5e0e3e9e5dce9b8df1fc88"
     },
     {
-        "url": "https://raw.githubusercontent.com/drumils/module-index/refs/heads/builds/PlayDesiProvider.cs3",
+        "url": "https://raw.githubusercontent.com/drumils/module-index/refs/heads/builds/PlayDesiProvider-v4.cs3",
         "status": 1,
         "version": 4,
         "name": "PlayDesiProvider",
