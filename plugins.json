@@ -102,16 +102,16 @@
         "fileHash": "sha256-a3873bcdcb7089956071fb2bb03d59eb35ec8c194fa1af4001ba253f4da499e0"
     },
     {
-        "url": "https://raw.githubusercontent.com/drumils/module-index/builds/DesiRulezTVProvider-v5.cs3",
+        "url": "https://raw.githubusercontent.com/drumils/module-index/builds/DesiRulezTVProvider-v6.cs3",
         "status": 1,
-        "version": 5,
+        "version": 6,
         "name": "DesiRulezTVProvider",
         "internalName": "DesiRulezTVProvider",
         "authors": [
             "cstream"
         ],
-        "description": "DesiRulezTV - Indian TV serials and shows",
-        "fileSize": 58991,
+        "description": "DesiRulezTV - Indian TV serials grouped by show and year",
+        "fileSize": 61891,
         "repositoryUrl": "https://github.com/drumils/module-index",
         "language": "hi",
         "tvTypes": [
@@ -119,19 +119,19 @@
         ],
         "iconUrl": "https://desiruleztv.se/wp-content/uploads/2025/11/favicon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-42d0fe0782717302752382b8fdd44d529c8b2d67a3b0c2d229a0af3e60868ae9"
+        "fileHash": "sha256-64fa0273bb07656cdfe0bd817925ae73a9ae472202ea34103ce4a7f3f864afae"
     },
     {
-        "url": "https://raw.githubusercontent.com/drumils/module-index/builds/DesiTVBoxProvider-v4.cs3",
+        "url": "https://raw.githubusercontent.com/drumils/module-index/builds/DesiTVBoxProvider-v5.cs3",
         "status": 1,
-        "version": 4,
+        "version": 5,
         "name": "DesiTVBoxProvider",
         "internalName": "DesiTVBoxProvider",
         "authors": [
             "cstream"
         ],
-        "description": "DesiTVBox - Desi TV serial episodes by channel",
-        "fileSize": 48842,
+        "description": "DesiTVBox - Desi TV serials grouped by show and year",
+        "fileSize": 51776,
         "repositoryUrl": "https://github.com/drumils/module-index",
         "language": "hi",
         "tvTypes": [
@@ -139,6 +139,6 @@
         ],
         "iconUrl": "https://www.desitvbox.ru/images/icon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-ff7128796b413c7e53087810ee6234c6a2940c0c169e1d2105b8f06ea8136a95"
+        "fileHash": "sha256-890f2366c72ffa2cd203593885adf5b9f3a38ea9ce21b7e2d824ab9569dbce06"
     }
 ]
