@@ -1,15 +1,15 @@
 [
     {
-        "url": "https://raw.githubusercontent.com/drumils/module-index/refs/heads/builds/ApneTVProvider-v6.cs3",
+        "url": "https://raw.githubusercontent.com/drumils/module-index/builds/ApneTVProvider-v7.cs3",
         "status": 1,
-        "version": 6,
+        "version": 7,
         "name": "ApneTVProvider",
         "internalName": "ApneTVProvider",
         "authors": [
             "cstream"
         ],
         "description": "ApneTV - Hindi Serials, Bollywood Movies, TV Shows (Star Plus, Colors, Sony, Zee TV)",
-        "fileSize": 29268,
+        "fileSize": 29415,
         "repositoryUrl": "https://github.com/drumils/module-index",
         "language": "hi",
         "tvTypes": [
@@ -17,7 +17,7 @@
         ],
         "iconUrl": "https://apne.co/pub/images/favicon-new3.png",
         "apiVersion": 1,
-        "fileHash": "sha256-8ea6392f731df852bab21113a224e5d3a86f38991f8b161ab8f28afedcb51fbc"
+        "fileHash": "sha256-ca3ff5c2877ae644e3c862a179aadcad491c3ce72290a8ef6f6206f0e5074a68"
     },
     {
         "url": "https://raw.githubusercontent.com/drumils/module-index/refs/heads/builds/HuraMoviesProvider-v5.cs3",
