@@ -79,5 +79,66 @@
         "iconUrl": "https://watchapne.biz/pub/images/favicon_black.png",
         "apiVersion": 1,
         "fileHash": "sha256-c8398a595e9fdbb0c5c1bfd031b9944c19e430e0206d592e21f01bff86a543f2"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/drumils/module-index/refs/heads/builds/GilliTVProvider-v1.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "GilliTVProvider",
+        "internalName": "GilliTVProvider",
+        "authors": [
+            "cstream"
+        ],
+        "description": "GilliTV - Indian TV serials and shows, with gillitv.xyz/live mirror support",
+        "fileSize": 38922,
+        "repositoryUrl": "https://github.com/drumils/module-index",
+        "language": "hi",
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://www.gillitv.xyz/wp-content/uploads/2019/04/gillitv-amp-logo.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-6c3191ce9d4e909a36c2765986dff2152b9d38e399540cee1a427e8d8c4414ca"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/drumils/module-index/refs/heads/builds/DesiRulezTVProvider-v1.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "DesiRulezTVProvider",
+        "internalName": "DesiRulezTVProvider",
+        "authors": [
+            "cstream"
+        ],
+        "description": "DesiRulezTV - Indian TV serials and shows",
+        "fileSize": 43790,
+        "repositoryUrl": "https://github.com/drumils/module-index",
+        "language": "hi",
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "iconUrl": "https://desiruleztv.se/wp-content/uploads/2025/11/favicon.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-888c72990e45a85cc623cee6bc66bc39eca5beefba33debc2e493f87018e5b97"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/drumils/module-index/refs/heads/builds/DesiTVBoxProvider-v1.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "DesiTVBoxProvider",
+        "internalName": "DesiTVBoxProvider",
+        "authors": [
+            "cstream"
+        ],
+        "description": "DesiTVBox - Desi TV serial episodes by channel",
+        "fileSize": 36424,
+        "repositoryUrl": "https://github.com/drumils/module-index",
+        "language": "hi",
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "iconUrl": "https://www.desitvbox.ru/images/icon.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-3ff92c27be0f6a7aea8466e46bb004728398b9ff760a379bdb04824cd1866c8d"
     }
 ]
