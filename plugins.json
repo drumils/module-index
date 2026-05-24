@@ -22,14 +22,14 @@
     {
         "url": "https://raw.githubusercontent.com/drumils/module-index/refs/heads/builds/HuraMoviesProvider.cs3",
         "status": 1,
-        "version": 3,
+        "version": 4,
         "name": "HuraMoviesProvider",
         "internalName": "HuraMoviesProvider",
         "authors": [
             "cstream"
         ],
         "description": "HuraMovies - Watch movies and TV shows for free",
-        "fileSize": 43235,
+        "fileSize": 53161,
         "repositoryUrl": "https://github.com/drumils/module-index",
         "language": "en",
         "tvTypes": [
@@ -38,19 +38,19 @@
         ],
         "iconUrl": "https://huramovies.lol/wp-content/uploads/2023/06/cropped-favicon-32x32.png",
         "apiVersion": 1,
-        "fileHash": "sha256-01663b5bc4db6e3251d3d41f8fcd7e6f87d176e210eb2ca242ebdf51c77b0caf"
+        "fileHash": "sha256-8cf402af781f04ad3307f4ea720c9797d5aaad73bbcf224efa72bcdcbf937205"
     },
     {
         "url": "https://raw.githubusercontent.com/drumils/module-index/refs/heads/builds/PlayDesiProvider.cs3",
         "status": 1,
-        "version": 3,
+        "version": 4,
         "name": "PlayDesiProvider",
         "internalName": "PlayDesiProvider",
         "authors": [
             "cstream"
         ],
         "description": "PlayDesi - Indian Web Series (Netflix, Amazon Prime, Hotstar, Sony Liv, Zee5)",
-        "fileSize": 28863,
+        "fileSize": 30697,
         "repositoryUrl": "https://github.com/drumils/module-index",
         "language": "hi",
         "tvTypes": [
@@ -58,6 +58,6 @@
         ],
         "iconUrl": "https://playdesi.tv/wp-content/uploads/2020/04/playdesi-sd.png",
         "apiVersion": 1,
-        "fileHash": "sha256-406999165e24c1f020508b8bdcaf612938d8a2933df2a9decad63fe1b92c58ce"
+        "fileHash": "sha256-25d4b7ddfa4491acac763c505e3e3a6b9fe7ea1466d5bc1d6ff327bc41ddc16f"
     }
 ]
