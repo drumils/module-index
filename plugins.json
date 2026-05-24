@@ -81,7 +81,7 @@
         "fileHash": "sha256-2fdae48bc1dcbf18de935650abd9ff40b26236c24a7f705f761fa17734c1284a"
     },
     {
-        "url": "https://raw.githubusercontent.com/drumils/module-index/builds/GilliTVProvider-v7.cs3",
+        "url": "https://raw.githubusercontent.com/drumils/module-index/108bae850cfb8b65448494d0ae335da1f0382c1d/GilliTVProvider-v7.cs3",
         "status": 1,
         "version": 7,
         "name": "GilliTVProvider",
