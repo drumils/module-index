@@ -102,7 +102,7 @@
         "fileHash": "sha256-a3873bcdcb7089956071fb2bb03d59eb35ec8c194fa1af4001ba253f4da499e0"
     },
     {
-        "url": "https://raw.githubusercontent.com/drumils/module-index/builds/DesiRulezTVProvider-v6.cs3",
+        "url": "https://raw.githubusercontent.com/drumils/module-index/85bcefbbb83adf7e7ac34f8130bf2ac0fd0d7250/DesiRulezTVProvider-v6.cs3",
         "status": 1,
         "version": 6,
         "name": "DesiRulezTVProvider",
@@ -122,7 +122,7 @@
         "fileHash": "sha256-4d4da61356c283201233ddc218ce164f43e67d130ca3cc1fa30c07cc44d2d91f"
     },
     {
-        "url": "https://raw.githubusercontent.com/drumils/module-index/builds/DesiTVBoxProvider-v5.cs3",
+        "url": "https://raw.githubusercontent.com/drumils/module-index/85bcefbbb83adf7e7ac34f8130bf2ac0fd0d7250/DesiTVBoxProvider-v5.cs3",
         "status": 1,
         "version": 5,
         "name": "DesiTVBoxProvider",
