@@ -102,16 +102,16 @@
         "fileHash": "sha256-dca30568be5e00e9b0b8ad0e941b4cb1d0c2b54072ab274585debe9614c4e996"
     },
     {
-        "url": "https://raw.githubusercontent.com/drumils/module-index/builds/DesiRulezTVProvider-v4.cs3",
+        "url": "https://raw.githubusercontent.com/drumils/module-index/builds/DesiRulezTVProvider-v5.cs3",
         "status": 1,
-        "version": 4,
+        "version": 5,
         "name": "DesiRulezTVProvider",
         "internalName": "DesiRulezTVProvider",
         "authors": [
             "cstream"
         ],
         "description": "DesiRulezTV - Indian TV serials and shows",
-        "fileSize": 47579,
+        "fileSize": 58991,
         "repositoryUrl": "https://github.com/drumils/module-index",
         "language": "hi",
         "tvTypes": [
@@ -119,19 +119,19 @@
         ],
         "iconUrl": "https://desiruleztv.se/wp-content/uploads/2025/11/favicon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-64529aa7aa1555e6aab8cc519a4a95db7f482b54ec058b0852e525ec37604dd9"
+        "fileHash": "sha256-42d0fe0782717302752382b8fdd44d529c8b2d67a3b0c2d229a0af3e60868ae9"
     },
     {
-        "url": "https://raw.githubusercontent.com/drumils/module-index/builds/DesiTVBoxProvider-v3.cs3",
+        "url": "https://raw.githubusercontent.com/drumils/module-index/builds/DesiTVBoxProvider-v4.cs3",
         "status": 1,
-        "version": 3,
+        "version": 4,
         "name": "DesiTVBoxProvider",
         "internalName": "DesiTVBoxProvider",
         "authors": [
             "cstream"
         ],
         "description": "DesiTVBox - Desi TV serial episodes by channel",
-        "fileSize": 39656,
+        "fileSize": 48842,
         "repositoryUrl": "https://github.com/drumils/module-index",
         "language": "hi",
         "tvTypes": [
@@ -139,6 +139,6 @@
         ],
         "iconUrl": "https://www.desitvbox.ru/images/icon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-b852dc1a85b5fbd9967fcf39432588d3cf84ea4f1d66a7a9fb68682dfecdd453"
+        "fileHash": "sha256-ff7128796b413c7e53087810ee6234c6a2940c0c169e1d2105b8f06ea8136a95"
     }
 ]
