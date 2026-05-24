@@ -1,15 +1,15 @@
 [
     {
-        "url": "https://raw.githubusercontent.com/drumils/module-index/builds/ApneTVProvider-v10.cs3",
+        "url": "https://raw.githubusercontent.com/drumils/module-index/builds/ApneTVProvider-v11.cs3",
         "status": 1,
-        "version": 10,
+        "version": 11,
         "name": "ApneTVProvider",
         "internalName": "ApneTVProvider",
         "authors": [
             "cstream"
         ],
         "description": "ApneTV - Hindi Serials, Bollywood Movies, TV Shows (Star Plus, Colors, Sony, Zee TV)",
-        "fileSize": 40425,
+        "fileSize": 41115,
         "repositoryUrl": "https://github.com/drumils/module-index",
         "language": "hi",
         "tvTypes": [
@@ -17,19 +17,19 @@
         ],
         "iconUrl": "https://apne.co/pub/images/favicon-new3.png",
         "apiVersion": 1,
-        "fileHash": "sha256-741ec3351ffd3a875af08aeff33c904312b37562a9ea417624297ea5521f6be9"
+        "fileHash": "sha256-148be3dd3334da0686c962a3b18f0db2f3fb7f1a95ea7b1db773edf436025d3c"
     },
     {
-        "url": "https://raw.githubusercontent.com/drumils/module-index/builds/PlayDesiProvider-v14.cs3",
+        "url": "https://raw.githubusercontent.com/drumils/module-index/builds/PlayDesiProvider-v15.cs3",
         "status": 1,
-        "version": 14,
+        "version": 15,
         "name": "PlayDesiProvider",
         "internalName": "PlayDesiProvider",
         "authors": [
             "cstream"
         ],
         "description": "PlayDesi - Indian Web Series (Netflix, Amazon Prime, Hotstar, Sony Liv, Zee5)",
-        "fileSize": 54757,
+        "fileSize": 55261,
         "repositoryUrl": "https://github.com/drumils/module-index",
         "language": "hi",
         "tvTypes": [
@@ -38,19 +38,19 @@
         ],
         "iconUrl": "https://playdesi.tv/wp-content/uploads/2020/04/playdesi-sd.png",
         "apiVersion": 1,
-        "fileHash": "sha256-ac0feda9682e9ff60abdadd0da8ff4147bbca09e155283c7a3dda81b6a76689a"
+        "fileHash": "sha256-28f0955e2fbfd28b3c6e95dd53a1a1bbfd52edd9d4bfd495e3750670a950d955"
     },
     {
-        "url": "https://raw.githubusercontent.com/drumils/module-index/builds/MovieApneProvider-v4.cs3",
+        "url": "https://raw.githubusercontent.com/drumils/module-index/builds/MovieApneProvider-v5.cs3",
         "status": 1,
-        "version": 4,
+        "version": 5,
         "name": "MovieApneProvider",
         "internalName": "MovieApneProvider",
         "authors": [
             "cstream"
         ],
         "description": "MovieApne - Hindi, Punjabi, Regional Dubbed, and old Indian movies",
-        "fileSize": 28693,
+        "fileSize": 29270,
         "repositoryUrl": "https://github.com/drumils/module-index",
         "language": "hi",
         "tvTypes": [
@@ -58,19 +58,19 @@
         ],
         "iconUrl": "https://movieapne.biz/pub/images/favicon_black.png",
         "apiVersion": 1,
-        "fileHash": "sha256-672e5ee27fed5a2def1eb6d04f6129cb73012551929692afc78e953c5666ea64"
+        "fileHash": "sha256-14740e0277fc12915d8b253d7d9ca353fe9880527228f6b58668b62c8fc810b4"
     },
     {
-        "url": "https://raw.githubusercontent.com/drumils/module-index/builds/WatchApneProvider-v5.cs3",
+        "url": "https://raw.githubusercontent.com/drumils/module-index/builds/WatchApneProvider-v6.cs3",
         "status": 1,
-        "version": 5,
+        "version": 6,
         "name": "WatchApneProvider",
         "internalName": "WatchApneProvider",
         "authors": [
             "cstream"
         ],
         "description": "WatchApne - Indian web series by platform/channel",
-        "fileSize": 33907,
+        "fileSize": 34544,
         "repositoryUrl": "https://github.com/drumils/module-index",
         "language": "hi",
         "tvTypes": [
@@ -78,7 +78,7 @@
         ],
         "iconUrl": "https://watchapne.biz/pub/images/favicon_black.png",
         "apiVersion": 1,
-        "fileHash": "sha256-c8398a595e9fdbb0c5c1bfd031b9944c19e430e0206d592e21f01bff86a543f2"
+        "fileHash": "sha256-bfa585cf12e219d3a0a929d7f78979ea2c5f6237f30b3afbb3615a54865300aa"
     },
     {
         "url": "https://raw.githubusercontent.com/drumils/module-index/builds/GilliTVProvider-v2.cs3",
