@@ -81,7 +81,7 @@
         "fileHash": "sha256-2fdae48bc1dcbf18de935650abd9ff40b26236c24a7f705f761fa17734c1284a"
     },
     {
-        "url": "https://raw.githubusercontent.com/drumils/module-index/builds/GilliTVProvider-v8.cs3",
+        "url": "https://raw.githubusercontent.com/drumils/module-index/87add7e2e8497c185cb1a47ab34104ea0904a6ed/GilliTVProvider-v8.cs3",
         "status": 1,
         "version": 8,
         "name": "GilliTVProvider",
@@ -122,7 +122,7 @@
         "fileHash": "sha256-4d4da61356c283201233ddc218ce164f43e67d130ca3cc1fa30c07cc44d2d91f"
     },
     {
-        "url": "https://raw.githubusercontent.com/drumils/module-index/builds/DesiTVBoxProvider-v6.cs3",
+        "url": "https://raw.githubusercontent.com/drumils/module-index/87add7e2e8497c185cb1a47ab34104ea0904a6ed/DesiTVBoxProvider-v6.cs3",
         "status": 1,
         "version": 6,
         "name": "DesiTVBoxProvider",
