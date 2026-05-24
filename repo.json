@@ -2,7 +2,5 @@
     "name": "Module Index",
     "description": "Extensions",
     "manifestVersion": 1,
-    "pluginLists": [
-        "https://raw.githubusercontent.com/drumils/module-index/c0233c49f7205bbfe632db247780d250724ab3aa/plugins.json"
-    ]
+    "pluginLists": []
 }
