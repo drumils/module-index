@@ -1,6 +1,6 @@
 [
     {
-        "url": "https://raw.githubusercontent.com/drumils/module-index/refs/heads/builds/ApneTVProvider-v10.cs3",
+        "url": "https://raw.githubusercontent.com/drumils/module-index/builds/ApneTVProvider-v10.cs3",
         "status": 1,
         "version": 10,
         "name": "ApneTVProvider",
@@ -20,7 +20,7 @@
         "fileHash": "sha256-741ec3351ffd3a875af08aeff33c904312b37562a9ea417624297ea5521f6be9"
     },
     {
-        "url": "https://raw.githubusercontent.com/drumils/module-index/refs/heads/builds/PlayDesiProvider-v14.cs3",
+        "url": "https://raw.githubusercontent.com/drumils/module-index/builds/PlayDesiProvider-v14.cs3",
         "status": 1,
         "version": 14,
         "name": "PlayDesiProvider",
@@ -41,7 +41,7 @@
         "fileHash": "sha256-ac0feda9682e9ff60abdadd0da8ff4147bbca09e155283c7a3dda81b6a76689a"
     },
     {
-        "url": "https://raw.githubusercontent.com/drumils/module-index/refs/heads/builds/MovieApneProvider-v4.cs3",
+        "url": "https://raw.githubusercontent.com/drumils/module-index/builds/MovieApneProvider-v4.cs3",
         "status": 1,
         "version": 4,
         "name": "MovieApneProvider",
@@ -61,7 +61,7 @@
         "fileHash": "sha256-672e5ee27fed5a2def1eb6d04f6129cb73012551929692afc78e953c5666ea64"
     },
     {
-        "url": "https://raw.githubusercontent.com/drumils/module-index/refs/heads/builds/WatchApneProvider-v5.cs3",
+        "url": "https://raw.githubusercontent.com/drumils/module-index/builds/WatchApneProvider-v5.cs3",
         "status": 1,
         "version": 5,
         "name": "WatchApneProvider",
@@ -81,16 +81,16 @@
         "fileHash": "sha256-c8398a595e9fdbb0c5c1bfd031b9944c19e430e0206d592e21f01bff86a543f2"
     },
     {
-        "url": "https://raw.githubusercontent.com/drumils/module-index/refs/heads/builds/GilliTVProvider-v1.cs3",
+        "url": "https://raw.githubusercontent.com/drumils/module-index/builds/GilliTVProvider-v2.cs3",
         "status": 1,
-        "version": 1,
+        "version": 2,
         "name": "GilliTVProvider",
         "internalName": "GilliTVProvider",
         "authors": [
             "cstream"
         ],
         "description": "GilliTV - Indian TV serials and shows, with gillitv.xyz/live mirror support",
-        "fileSize": 38922,
+        "fileSize": 39617,
         "repositoryUrl": "https://github.com/drumils/module-index",
         "language": "hi",
         "tvTypes": [
@@ -99,19 +99,19 @@
         ],
         "iconUrl": "https://www.gillitv.xyz/wp-content/uploads/2019/04/gillitv-amp-logo.png",
         "apiVersion": 1,
-        "fileHash": "sha256-6c3191ce9d4e909a36c2765986dff2152b9d38e399540cee1a427e8d8c4414ca"
+        "fileHash": "sha256-3dcad02b0f881510f0fc36aa7f0a15de3dadf623f113c083a62648076883aee5"
     },
     {
-        "url": "https://raw.githubusercontent.com/drumils/module-index/refs/heads/builds/DesiRulezTVProvider-v2.cs3",
+        "url": "https://raw.githubusercontent.com/drumils/module-index/builds/DesiRulezTVProvider-v3.cs3",
         "status": 1,
-        "version": 2,
+        "version": 3,
         "name": "DesiRulezTVProvider",
         "internalName": "DesiRulezTVProvider",
         "authors": [
             "cstream"
         ],
         "description": "DesiRulezTV - Indian TV serials and shows",
-        "fileSize": 43732,
+        "fileSize": 44167,
         "repositoryUrl": "https://github.com/drumils/module-index",
         "language": "hi",
         "tvTypes": [
@@ -119,19 +119,19 @@
         ],
         "iconUrl": "https://desiruleztv.se/wp-content/uploads/2025/11/favicon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-8301d19408db20d62f6e2a48358d62717a1f24876f93b9ca97f7386ed5927097"
+        "fileHash": "sha256-5e5f45bddd980341528566c25681cdd82fcdaedc732d5781b33c1ccce6c59e9a"
     },
     {
-        "url": "https://raw.githubusercontent.com/drumils/module-index/refs/heads/builds/DesiTVBoxProvider-v1.cs3",
+        "url": "https://raw.githubusercontent.com/drumils/module-index/builds/DesiTVBoxProvider-v2.cs3",
         "status": 1,
-        "version": 1,
+        "version": 2,
         "name": "DesiTVBoxProvider",
         "internalName": "DesiTVBoxProvider",
         "authors": [
             "cstream"
         ],
         "description": "DesiTVBox - Desi TV serial episodes by channel",
-        "fileSize": 36424,
+        "fileSize": 36069,
         "repositoryUrl": "https://github.com/drumils/module-index",
         "language": "hi",
         "tvTypes": [
@@ -139,6 +139,6 @@
         ],
         "iconUrl": "https://www.desitvbox.ru/images/icon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-3ff92c27be0f6a7aea8466e46bb004728398b9ff760a379bdb04824cd1866c8d"
+        "fileHash": "sha256-b83191ddcb8d3f2153c9dacd64eb282d978bb40d7ef38b2e294a9d1263823bdc"
     }
 ]
