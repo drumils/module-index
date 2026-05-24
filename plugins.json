@@ -1,15 +1,15 @@
 [
     {
-        "url": "https://raw.githubusercontent.com/drumils/module-index/refs/heads/builds/ApneTVProvider-v9.cs3",
+        "url": "https://raw.githubusercontent.com/drumils/module-index/refs/heads/builds/ApneTVProvider-v10.cs3",
         "status": 1,
-        "version": 9,
+        "version": 10,
         "name": "ApneTVProvider",
         "internalName": "ApneTVProvider",
         "authors": [
             "cstream"
         ],
         "description": "ApneTV - Hindi Serials, Bollywood Movies, TV Shows (Star Plus, Colors, Sony, Zee TV)",
-        "fileSize": 36700,
+        "fileSize": 40425,
         "repositoryUrl": "https://github.com/drumils/module-index",
         "language": "hi",
         "tvTypes": [
@@ -17,19 +17,19 @@
         ],
         "iconUrl": "https://apne.co/pub/images/favicon-new3.png",
         "apiVersion": 1,
-        "fileHash": "sha256-de8848600b9045ce4fd197382679eaf18f448b3797d77e5e9062a0b23456ef21"
+        "fileHash": "sha256-741ec3351ffd3a875af08aeff33c904312b37562a9ea417624297ea5521f6be9"
     },
     {
-        "url": "https://raw.githubusercontent.com/drumils/module-index/refs/heads/builds/HuraMoviesProvider-v6.cs3",
+        "url": "https://raw.githubusercontent.com/drumils/module-index/refs/heads/builds/HuraMoviesProvider-v7.cs3",
         "status": 1,
-        "version": 6,
+        "version": 7,
         "name": "HuraMoviesProvider",
         "internalName": "HuraMoviesProvider",
         "authors": [
             "cstream"
         ],
         "description": "HuraMovies - Watch movies and TV shows for free",
-        "fileSize": 57344,
+        "fileSize": 60640,
         "repositoryUrl": "https://github.com/drumils/module-index",
         "language": "en",
         "tvTypes": [
@@ -38,19 +38,19 @@
         ],
         "iconUrl": "https://huramovies.lol/wp-content/uploads/2023/06/cropped-favicon-32x32.png",
         "apiVersion": 1,
-        "fileHash": "sha256-643fb634981235bd4ff99af81e8f3145acdfc38db11a36d5de195951bee751a7"
+        "fileHash": "sha256-7044e4648f14eacb8e368916fb211a4f4229738cc37cebf0d7d16415399347ef"
     },
     {
-        "url": "https://raw.githubusercontent.com/drumils/module-index/refs/heads/builds/PlayDesiProvider-v13.cs3",
+        "url": "https://raw.githubusercontent.com/drumils/module-index/refs/heads/builds/PlayDesiProvider-v14.cs3",
         "status": 1,
-        "version": 13,
+        "version": 14,
         "name": "PlayDesiProvider",
         "internalName": "PlayDesiProvider",
         "authors": [
             "cstream"
         ],
         "description": "PlayDesi - Indian Web Series (Netflix, Amazon Prime, Hotstar, Sony Liv, Zee5)",
-        "fileSize": 50678,
+        "fileSize": 54757,
         "repositoryUrl": "https://github.com/drumils/module-index",
         "language": "hi",
         "tvTypes": [
@@ -59,19 +59,19 @@
         ],
         "iconUrl": "https://playdesi.tv/wp-content/uploads/2020/04/playdesi-sd.png",
         "apiVersion": 1,
-        "fileHash": "sha256-a7c1ec1fdc8b0913afc88557d2261dd7f88b05febd6046c0eeba74d706563008"
+        "fileHash": "sha256-ac0feda9682e9ff60abdadd0da8ff4147bbca09e155283c7a3dda81b6a76689a"
     },
     {
-        "url": "https://raw.githubusercontent.com/drumils/module-index/refs/heads/builds/MovieApneProvider-v3.cs3",
+        "url": "https://raw.githubusercontent.com/drumils/module-index/refs/heads/builds/MovieApneProvider-v4.cs3",
         "status": 1,
-        "version": 3,
+        "version": 4,
         "name": "MovieApneProvider",
         "internalName": "MovieApneProvider",
         "authors": [
             "cstream"
         ],
         "description": "MovieApne - Hindi, Punjabi, Regional Dubbed, and old Indian movies",
-        "fileSize": 25034,
+        "fileSize": 28693,
         "repositoryUrl": "https://github.com/drumils/module-index",
         "language": "hi",
         "tvTypes": [
@@ -79,19 +79,19 @@
         ],
         "iconUrl": "https://movieapne.biz/pub/images/favicon_black.png",
         "apiVersion": 1,
-        "fileHash": "sha256-8c8587a05ae98b1ae3a643b370ad2f4255d4367dbb04f1db66b6457a7314262c"
+        "fileHash": "sha256-672e5ee27fed5a2def1eb6d04f6129cb73012551929692afc78e953c5666ea64"
     },
     {
-        "url": "https://raw.githubusercontent.com/drumils/module-index/refs/heads/builds/WatchApneProvider-v4.cs3",
+        "url": "https://raw.githubusercontent.com/drumils/module-index/refs/heads/builds/WatchApneProvider-v5.cs3",
         "status": 1,
-        "version": 4,
+        "version": 5,
         "name": "WatchApneProvider",
         "internalName": "WatchApneProvider",
         "authors": [
             "cstream"
         ],
         "description": "WatchApne - Indian web series by platform/channel",
-        "fileSize": 30188,
+        "fileSize": 33907,
         "repositoryUrl": "https://github.com/drumils/module-index",
         "language": "hi",
         "tvTypes": [
@@ -99,6 +99,6 @@
         ],
         "iconUrl": "https://watchapne.biz/pub/images/favicon_black.png",
         "apiVersion": 1,
-        "fileHash": "sha256-c761ed99ee03511a24034ae0e7bb79bb27b6418eb3d93ef6194a89dc100d5559"
+        "fileHash": "sha256-c8398a595e9fdbb0c5c1bfd031b9944c19e430e0206d592e21f01bff86a543f2"
     }
 ]
