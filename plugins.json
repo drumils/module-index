@@ -122,6 +122,26 @@
         "fileHash": "sha256-330f1a787b4550ae0289bd5236b2e7aaf8af92a46089cde7c8926482c51516f6"
     },
     {
+        "url": "https://raw.githubusercontent.com/drumils/module-index/builds/DesiSerialsProvider-v1.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "DesiSerialsProvider",
+        "internalName": "DesiSerialsProvider",
+        "authors": [
+            "cstream"
+        ],
+        "description": "Desi-Serials - Indian TV serials grouped by network and year",
+        "fileSize": 63036,
+        "repositoryUrl": "https://github.com/drumils/module-index",
+        "language": "hi",
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "iconUrl": "https://www.desi-serials.to/wp-content/uploads/2019/09/cropped-fav-1-192x192.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-dee7b5ec3e75608b5f0ad662a828443c2af933a9b1235270ea2aadfc436b1873"
+    },
+    {
         "url": "https://raw.githubusercontent.com/drumils/module-index/bc95be5962d9e6aca0ac3992a0e326abd129324b/DesiTVBoxProvider-v7.cs3",
         "status": 1,
         "version": 7,
