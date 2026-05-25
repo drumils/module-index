@@ -102,16 +102,16 @@
         "fileHash": "sha256-3f8302918d25f6841b17f7d871fd72234021262384e0903a250869a37c0743c0"
     },
     {
-        "url": "https://raw.githubusercontent.com/drumils/module-index/343dbcda517a96cc434df20bc3e0fb30d666083e/DesiRulezTVProvider-v8.cs3",
+        "url": "https://raw.githubusercontent.com/drumils/module-index/builds/DesiRulezTVProvider-v9.cs3",
         "status": 1,
-        "version": 8,
+        "version": 9,
         "name": "DesiRulezTVProvider",
         "internalName": "DesiRulezTVProvider",
         "authors": [
             "cstream"
         ],
-        "description": "DesiRulezTV - Indian TV serials with clearer year and episode grouping",
-        "fileSize": 68391,
+        "description": "DesiRulezTV - Indian TV serials with stricter accurate episode playback",
+        "fileSize": 68696,
         "repositoryUrl": "https://github.com/drumils/module-index",
         "language": "hi",
         "tvTypes": [
@@ -119,7 +119,7 @@
         ],
         "iconUrl": "https://desiruleztv.se/wp-content/uploads/2025/11/favicon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-b42aca3618bad90f19f966a6f189ea4cb461ec95c3b3945da1c9446d48d064f8"
+        "fileHash": "sha256-b13ca7608c02b7f6b1572a401b18fdda91c5b50e88ccee702a64500cc69d6f4b"
     },
     {
         "url": "https://raw.githubusercontent.com/drumils/module-index/87add7e2e8497c185cb1a47ab34104ea0904a6ed/DesiTVBoxProvider-v6.cs3",
