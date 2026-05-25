@@ -102,7 +102,7 @@
         "fileHash": "sha256-3f8302918d25f6841b17f7d871fd72234021262384e0903a250869a37c0743c0"
     },
     {
-        "url": "https://raw.githubusercontent.com/drumils/module-index/builds/DesiRulezTVProvider-v10.cs3",
+        "url": "https://raw.githubusercontent.com/drumils/module-index/94e3b3cd5e7115fc77a1f5547d1b6fbd9d2ac733/DesiRulezTVProvider-v10.cs3",
         "status": 1,
         "version": 10,
         "name": "DesiRulezTVProvider",
