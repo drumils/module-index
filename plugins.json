@@ -122,7 +122,7 @@
         "fileHash": "sha256-330f1a787b4550ae0289bd5236b2e7aaf8af92a46089cde7c8926482c51516f6"
     },
     {
-        "url": "https://raw.githubusercontent.com/drumils/module-index/builds/DesiSerialsProvider-v1.cs3",
+        "url": "https://raw.githubusercontent.com/drumils/module-index/15c8c2071378aa079e458ef23fdeb0232c3edb4b/DesiSerialsProvider-v1.cs3",
         "status": 1,
         "version": 1,
         "name": "DesiSerialsProvider",
