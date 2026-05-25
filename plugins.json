@@ -122,16 +122,16 @@
         "fileHash": "sha256-b13ca7608c02b7f6b1572a401b18fdda91c5b50e88ccee702a64500cc69d6f4b"
     },
     {
-        "url": "https://raw.githubusercontent.com/drumils/module-index/87add7e2e8497c185cb1a47ab34104ea0904a6ed/DesiTVBoxProvider-v6.cs3",
+        "url": "https://raw.githubusercontent.com/drumils/module-index/builds/DesiTVBoxProvider-v7.cs3",
         "status": 1,
-        "version": 6,
+        "version": 7,
         "name": "DesiTVBoxProvider",
         "internalName": "DesiTVBoxProvider",
         "authors": [
             "cstream"
         ],
-        "description": "DesiTVBox - Desi TV serials grouped by show/year with Yandex stream resolving",
-        "fileSize": 54706,
+        "description": "DesiTVBox - Desi TV serials with strict episode-matched stream resolving",
+        "fileSize": 60805,
         "repositoryUrl": "https://github.com/drumils/module-index",
         "language": "hi",
         "tvTypes": [
@@ -139,6 +139,6 @@
         ],
         "iconUrl": "https://www.desitvbox.ru/images/icon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-2ba3ac473f2f14ff7fe4034e0f746a234202307543f55eeb97f08c865546deb8"
+        "fileHash": "sha256-e158615a0a1a32a17f8edd9ed15c6c42ca34a414efcf1014a7804139eca1fc24"
     }
 ]
