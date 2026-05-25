@@ -122,7 +122,7 @@
         "fileHash": "sha256-b13ca7608c02b7f6b1572a401b18fdda91c5b50e88ccee702a64500cc69d6f4b"
     },
     {
-        "url": "https://raw.githubusercontent.com/drumils/module-index/builds/DesiTVBoxProvider-v7.cs3",
+        "url": "https://raw.githubusercontent.com/drumils/module-index/bc95be5962d9e6aca0ac3992a0e326abd129324b/DesiTVBoxProvider-v7.cs3",
         "status": 1,
         "version": 7,
         "name": "DesiTVBoxProvider",
