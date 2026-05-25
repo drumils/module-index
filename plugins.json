@@ -160,5 +160,25 @@
         "iconUrl": "https://www.desitvbox.ru/images/icon.png",
         "apiVersion": 1,
         "fileHash": "sha256-e158615a0a1a32a17f8edd9ed15c6c42ca34a414efcf1014a7804139eca1fc24"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/drumils/module-index/4e111d93e67900ded56f115fe515c61ae462b78f/DesiTVSerialProvider-v1.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "DesiTVSerialProvider",
+        "internalName": "DesiTVSerialProvider",
+        "authors": [
+            "cstream"
+        ],
+        "description": "DesiTVSerial - Indian TV serials grouped by network and year",
+        "fileSize": 72514,
+        "repositoryUrl": "https://github.com/drumils/module-index",
+        "language": "hi",
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "iconUrl": "https://desitvserial.se/wp-content/uploads/2026/05/cropped-DesitvSerial-icon-192x192.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-7b7f0447e1b40d14e918209ea2bc5cba76d0e43f251da08bb4c587c2aac9ab41"
     }
 ]
