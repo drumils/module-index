@@ -122,16 +122,16 @@
         "fileHash": "sha256-330f1a787b4550ae0289bd5236b2e7aaf8af92a46089cde7c8926482c51516f6"
     },
     {
-        "url": "https://raw.githubusercontent.com/drumils/module-index/15c8c2071378aa079e458ef23fdeb0232c3edb4b/DesiSerialsProvider-v1.cs3",
+        "url": "https://raw.githubusercontent.com/drumils/module-index/undefined/DesiSerialsProvider-v2.cs3",
         "status": 1,
-        "version": 1,
+        "version": 2,
         "name": "DesiSerialsProvider",
         "internalName": "DesiSerialsProvider",
         "authors": [
             "cstream"
         ],
-        "description": "Desi-Serials - Indian TV serials grouped by network and year",
-        "fileSize": 63036,
+        "description": "Desi-Serials - Indian TV serials with clean network grouping, posters, and year episodes",
+        "fileSize": 67033,
         "repositoryUrl": "https://github.com/drumils/module-index",
         "language": "hi",
         "tvTypes": [
@@ -139,7 +139,7 @@
         ],
         "iconUrl": "https://www.desi-serials.to/wp-content/uploads/2019/09/cropped-fav-1-192x192.png",
         "apiVersion": 1,
-        "fileHash": "sha256-dee7b5ec3e75608b5f0ad662a828443c2af933a9b1235270ea2aadfc436b1873"
+        "fileHash": "sha256-be4bea71c9c82df1e0ed7f0362bc57591ee61dbbc568122a4a04a15cf499603a"
     },
     {
         "url": "https://raw.githubusercontent.com/drumils/module-index/8c16cbfadd0162e92e18c91ef55a1d9273507eee/DesiTVBoxProvider-v8.cs3",
